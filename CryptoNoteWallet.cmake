@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "bukz")
+set(CN_CURRENCY_DISPLAY_NAME "bukz")
+set(CN_CURRENCY_TICKER "BUZ")
